@@ -1,0 +1,49 @@
+DEBUG:parso.python.diff:diff parser start
+DEBUG:parso.python.diff:line_lengths old: 2; new: 2
+DEBUG:parso.python.diff:-> code[equal] old[1:1] new[1:1]
+DEBUG:parso.python.diff:copy old[1:1] new[1:1]
+DEBUG:parso.python.diff:-> code[replace] old[2:2] new[2:2]
+DEBUG:parso.python.diff:parse_part from 2 to 2 (to 1 in part parser)
+DEBUG:parso.python.diff:diff parser end
+INFO:root:this is buffer module
+INFO:root:this is bufferWriter
+INFO:root:this is buffer close flush
+INFO:root:this is buffer module
+INFO:root:this is bufferWriter
+INFO:root:this is buffer close flush
+INFO:root:this is buffer module
+INFO:root:this is bufferWriter
+INFO:root:this is buffer close flush
+INFO:root:this is buffer module
+INFO:root:this is bufferWriter
+INFO:root:this is buffer close flush
+INFO:root:this is buffer module
+INFO:root:this is bufferWriter
+INFO:root:this is buffer close flush
+ERROR:Comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: 40e6d4e1-b341-44af-a3bf-0579939e08ad
+DEBUG:Comm:Current comms: []
+INFO:root:this is buffer module
+INFO:root:this is bufferWriter
+INFO:root:this is buffer close flush
+INFO:root:this is buffer module
+INFO:root:this is bufferWriter
+INFO:root:this is buffer close flush
+ERROR:Comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: 729f75f0-273c-4482-b5e4-599a9d30f9a6
+DEBUG:Comm:Current comms: []
+ERROR:Comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: 2d06b678-338c-4fb7-a60e-a4f050c25ed7
+DEBUG:Comm:Current comms: []
+INFO:root:this is buffer module
+INFO:root:this is bufferWriter
+INFO:root:this is buffer close flush
+INFO:root:this is buffer module
+INFO:root:this is bufferWriter
+INFO:root:this is buffer close flush
+INFO:root:this is buffer module
+INFO:root:this is bufferWriter
+INFO:root:this is buffer close flush
+ERROR:Comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: 5c5457d5-23c1-4c9f-80da-89fc37b7c38e
+DEBUG:Comm:Current comms: []

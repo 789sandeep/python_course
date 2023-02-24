@@ -1,0 +1,32 @@
+2023-02-24 04:49:41,637 root INFO this is my information
+2023-02-24 04:49:41,639 root WARNING this is warring message
+2023-02-24 04:49:41,639 root ERROR this is error message
+2023-02-24 04:49:41,639 root CRITICAL this is critical
+2023-02-24 04:49:42,295 root INFO this is first loop in this program 1
+2023-02-24 04:49:42,296 root INFO this elif statement check i is the type of int 1
+2023-02-24 04:49:42,296 root INFO this is first loop in this program 2
+2023-02-24 04:49:42,296 root INFO this elif statement check i is the type of int 2
+2023-02-24 04:49:42,296 root INFO this is first loop in this program 3
+2023-02-24 04:49:42,296 root INFO this elif statement check i is the type of int 3
+2023-02-24 04:49:42,296 root INFO this is first loop in this program 4
+2023-02-24 04:49:42,296 root INFO this elif statement check i is the type of int 4
+2023-02-24 04:49:42,296 root INFO this is first loop in this program [5, 6, 7, 8, 9]
+2023-02-24 04:49:42,296 root INFO this is first loop in this program ['yash', 'anmol', 'viabhav', 'hemant']
+2023-02-24 04:49:42,297 root INFO li1 is integer value store in [1, 2, 3, 4]. and li2 is string valule store in []
+2023-02-24 04:49:53,276 Comm ERROR No such comm target registered: jupyter.widget.control
+2023-02-24 04:49:53,291 Comm WARNING No such comm: bca6eebb-5f13-4d05-8226-971c95bd109f
+2023-02-24 04:49:53,291 Comm DEBUG Current comms: []
+2023-02-24 04:50:00,151 root INFO this is first loop in this program 1
+2023-02-24 04:50:00,152 root INFO this elif statement check i is the type of int 1
+2023-02-24 04:50:00,152 root INFO this is first loop in this program 2
+2023-02-24 04:50:00,152 root INFO this elif statement check i is the type of int 2
+2023-02-24 04:50:00,152 root INFO this is first loop in this program 3
+2023-02-24 04:50:00,152 root INFO this elif statement check i is the type of int 3
+2023-02-24 04:50:00,152 root INFO this is first loop in this program 4
+2023-02-24 04:50:00,152 root INFO this elif statement check i is the type of int 4
+2023-02-24 04:50:00,152 root INFO this is first loop in this program [5, 6, 7, 8, 9]
+2023-02-24 04:50:00,152 root INFO this is first loop in this program ['yash', 'anmol', 'viabhav', 'hemant']
+2023-02-24 04:50:00,152 root INFO li1 is integer value store in [1, 2, 3, 4]. and li2 is string valule store in []
+2023-02-24 04:57:43,369 Comm ERROR No such comm target registered: jupyter.widget.control
+2023-02-24 04:57:43,372 Comm WARNING No such comm: e8424832-fb6e-4dd3-8270-0c11ed4e68ca
+2023-02-24 04:57:43,372 Comm DEBUG Current comms: []
